@@ -16,3 +16,5 @@ __pycache__/
 *.out
 tests/unit_tests
 tests/build
+Nemotron_Super/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4/*.safetensors
+Nemotron_Super/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4/model.safetensors.index.json
